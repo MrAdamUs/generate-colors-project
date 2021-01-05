@@ -4,11 +4,11 @@
   box-sizing: border-box;
 }
 body {
-  font-family: "Muli", sans-serif;
+  font-family: 'Muli', sans-serif;
   color: rgb(51, 51, 51);
 }
 button {
-  font-family: "Muli", sans-serif;
+  font-family: 'Muli', sans-serif;
 }
 path,
 i,
@@ -111,7 +111,7 @@ svg {
 }
 
 /* Slider Stuff */
-input[type="range"] {
+input[type='range'] {
   -webkit-appearance: none;
   margin: 1rem 0rem;
   width: 100%;
